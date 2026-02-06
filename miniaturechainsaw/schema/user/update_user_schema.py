@@ -1,0 +1,2 @@
+class UpdateUserSchema:
+    name: str

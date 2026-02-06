@@ -1,0 +1,2 @@
+class CreateExerciseSchema:
+    name: str

@@ -1,0 +1,2 @@
+class CreateUserSchema:
+    name: str
